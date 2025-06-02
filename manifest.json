@@ -1,0 +1,21 @@
+{
+  "name": "RozenicaApp",
+  "short_name": "Rozenica",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "description": "Rozenica Progressive Web App",
+  "icons": [
+    {
+      "src": "index.icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "index.apple-touch-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
